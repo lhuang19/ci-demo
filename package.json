@@ -1,5 +1,5 @@
 {
-  "name": "@cis188/ci-demo",
+  "name": "@lhuang19/ci-demo",
   "version": "1.0.0",
   "description": "A demo application used to demonstrate CI for cis188",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "bin": {
     "ci-demo": "./index.js"
   },
-  "author": "CIS 188",
+  "author": "lhuang19",
   "license": "ISC",
   "dependencies": {
     "jest": "^26.6.3",
